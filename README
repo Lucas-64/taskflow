@@ -1,0 +1,13 @@
+# TaskFlow
+
+Gerenciador de tarefas desenvolvido com React.
+
+## Tecnologias
+- React
+- Vite
+- JavaScript
+
+## Como rodar
+```bash
+npm install
+npm run dev
